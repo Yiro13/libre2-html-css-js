@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Mukta', sans-serif;
+}
+
+body{
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2-1556642602.jpg);
+}
+
+.titulo{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: rgb(21, 255, 0);
+    font-size: 30px;
+}
+
+.cuadro{
+    margin-top: 100px;
+    text-align: center;
+    width: auto;
+    height: 500px;
+   
+}
+
+.cuadro h3{
+    padding: 50px;
+    font-size: 25px;
+    color: wheat;
+}
+
+.cuadro p{
+    padding: 30px;
+    font-size: 25px;
+    color: wheat;
+}
